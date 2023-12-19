@@ -1,2 +1,0 @@
-# purus
-my first repository
